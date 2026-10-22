@@ -1,5 +1,5 @@
 ## FINAL PROJECT
-#ML applied in industry
+# ML applied in industry
 
 # Road Incidents in Medellín: Hotspots and Victim Triage
 
