@@ -1,0 +1,7 @@
+km,n,pct_del_total,hora_mediana,pct_noche,tasa_victimas,clase_top,comuna_top,nombre,accion
+0,106902,0.163,18.0,0.06,0.59,Choque,La Candelaria,Pico de la tarde laboral,"Reforzar agentes de tránsito de 16 h a 19 h, de lunes a viernes, en los corredores de mayor flujo"
+1,113634,0.173,8.0,0.09,0.58,Choque,La Candelaria,Pico de la mañana laboral,"Reforzar agentes de tránsito de 6 h a 9 h, de lunes a viernes, en las entradas a la ciudad y corredores principales"
+2,108301,0.165,9.0,0.09,0.58,Choque,La Candelaria,Media mañana con parte de fin de semana,Mantener cobertura de tránsito de 8 h a 11 h y revisar los días en que se concentra para ajustar los turnos
+3,100360,0.153,19.0,0.46,0.65,Choque,La Candelaria,Noche y madrugada de fin de semana (el más grave),"Operativos de alcoholemia y control de velocidad de viernes a domingo de 22 h a 5 h, y despacho de ambulancia prioritario en reportes nocturnos"
+4,97726,0.149,17.0,0.04,0.49,Choque,El Poblado,"Tarde en El Poblado, incidentes más leves",Atender con tránsito sin ambulancia por defecto (prioridad baja en el despacho); ambulancia solo si el reporte indica heridos
+5,130832,0.199,13.0,0.0,0.52,Choque,La Candelaria,Fin de semana de día,Reforzar el control sábados y domingos de 11 h a 15 h en corredores recreativos y salidas de la ciudad
