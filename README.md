@@ -51,18 +51,6 @@ The raw data is not stored in this repository. See `data/README.md` for download
 - **Decision threshold:** chosen by the cost of errors. A false negative (not sending an ambulance to an injured person) is far costlier than a false positive. A sensitivity analysis over different cost ratios shows how the threshold changes.
 - **Interpretation:** feature importances, read as association and not as causation.
 
-## Results
-
-_To be completed._
-
-| Model | Test AUC | Sensitivity | Specificity |
-|---|---|---|---|
-| Baseline | | | |
-| Logistic regression | | | |
-| KNN | | | |
-| Decision tree | | | |
-| Random Forest | | | |
-| Gradient boosting | | | |
 
 ## Limitations
 
@@ -77,12 +65,10 @@ _To be completed._
 ```
 ├── data/              # download instructions (no raw data)
 ├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_clustering.ipynb
+│   ├── 01_part_A.ipynb
+│   ├── 02_Part_B.ipynb
 │   └── 03_classification.ipynb
-├── src/               # reusable functions and pipelines
 ├── report/            # PDF report and poster
-└── requirements.txt
 ```
 
 ## Reproducing
