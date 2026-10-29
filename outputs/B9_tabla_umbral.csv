@@ -1,0 +1,5 @@
+configuracion,exactitud,sensibilidad,especificidad,FN,FP,costo_relativo
+umbral 0.5,0.75,0.619,0.959,17812,1203,0.484
+umbral por costo (r=2) = 0.31,0.73,0.819,0.587,8458,12084,0.381
+ despachar SIEMPRE ambulancia,0.615,1.0,0.0,0,29292,0.385
+ NUNCA despachar ambulancia,0.385,0.0,1.0,46781,0,1.23

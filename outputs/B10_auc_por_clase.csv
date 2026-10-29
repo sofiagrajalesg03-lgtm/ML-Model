@@ -1,0 +1,7 @@
+clase,n,tasa_victimas,AUC
+Choque,48197,0.397,0.602
+Otro,14369,0.99,0.652
+Atropello,7258,1.0,
+Caida Ocupante,3533,1.0,
+Volcamiento,2706,0.977,0.536
+Incendio,10,0.5,
